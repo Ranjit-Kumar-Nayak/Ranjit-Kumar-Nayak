@@ -8,8 +8,7 @@
 <a href="https://dev.to/ranjitkumarnayak">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://ranjitkumarnayak.hashnode.dev/lets-learn-about-devops">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+
 </a>
 <br>
 
