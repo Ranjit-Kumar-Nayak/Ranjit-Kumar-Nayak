@@ -13,6 +13,6 @@
 <br>
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
+🎓 I’m an Open-Source enthusiast & a junior Software developer working at @Ericsson. </br>
  📫 How to reach me ranjikumarnayak420@gmail.com<br>
  🔥 My Aim Is Aware To People About OpenSource.
